@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# This script updates the /etc/hosts file to change the IP address of localhost and facebook.com
 
 # remove and recreate the file
 sudo rm /etc/hosts
